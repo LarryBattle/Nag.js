@@ -1,5 +1,3 @@
-ECHO is on.
-
 var check = Nag(function () {
         console.log(arguments[0], arguments[1]);
     }, 100);
