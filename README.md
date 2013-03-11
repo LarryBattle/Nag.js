@@ -8,6 +8,7 @@ Version `0.2`
 Options:
 
 `option.count` : {Number} - Count amount
+
 Executes the callback only after the wrapped function has been called the amount of times given by `option.count`.
 
 Example:
