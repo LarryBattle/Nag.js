@@ -1,3 +1,6 @@
+# Note
+Project is retired and not under active development.
+
 ## Nag.js
 Wraps a function with in a condition.
 
